@@ -1,6 +1,6 @@
 # asbamboo/framework-standard 
 
-asbamboo/framework 是标准的初始结构。
+是 asbamboo/framework 标准的初始结构。
 
 安装
 -----
